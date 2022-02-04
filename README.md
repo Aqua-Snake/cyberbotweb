@@ -1,4 +1,4 @@
-# [Cyber Bot](https://aqua-snake.github.io/cyberbot/#home)
+# [Cyber Bot](https://aqua-snake.github.io/cyberbotweb/)
 
 ### WebSite
 
